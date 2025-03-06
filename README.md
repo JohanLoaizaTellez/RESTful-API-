@@ -9,14 +9,7 @@ Esta es una API RESTful construida con Flask y SQLAlchemy que permite gestionar 
 - Python
 - Flask
 - SQLAlchemy
-- SQLite (o cualquier base de datos compatible)
+- SQLite
 - Flask-RESTful
 - Flask-Migrate
-
-## Instalación
-
-1. Clona el repositorio:
-
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+- Swagger-UI
